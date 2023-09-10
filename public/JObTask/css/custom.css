@@ -1,0 +1,11 @@
+/* Your existing CSS rules go here */
+
+<style>
+  .nav-pills.tabs-my .nav-link.active, .nav-pills.tabs-my .show>.nav-link {
+    background: #e44d3a;
+    color: #fff;
+  }
+  .nav-pills.tabs-my .nav-link {
+    color: #e44d3a;
+  }
+</style>
